@@ -283,7 +283,7 @@
                     <div class="slider-content">
                         <div class="col-md-12 text-center">
                             <h1 class="animated1">
-                                <span><strong></strong>Farmlan - The Environmental Protection</span>
+                                <span><strong></strong>Farmlanz - The Environmental Protection</span>
                             </h1>
                             <p class="animated2">Think Green ...!</p>
                             <a href="#feature" class="page-scroll btn btn-primary animated3">Read More</a>
